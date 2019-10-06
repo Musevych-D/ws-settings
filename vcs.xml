@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.adraba.io" />
           <option name="userName" value="denys.musevych@adraba.local" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="avobacha@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
