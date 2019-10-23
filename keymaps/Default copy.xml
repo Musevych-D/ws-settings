@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -12,6 +15,7 @@
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="shift alt m" />
     <keyboard-shortcut first-keystroke="alt m" />
