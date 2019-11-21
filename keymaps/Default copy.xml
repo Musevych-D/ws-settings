@@ -10,6 +10,12 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt subtract" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt add" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="QuickChangeScheme" />
   <action id="Synchronize">
