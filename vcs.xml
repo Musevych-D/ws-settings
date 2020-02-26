@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="avobacha@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.syneforge.com" />
+          <option name="userName" value="jorakorneev" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
