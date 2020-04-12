@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".eslintingnore" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="CategorizerHeadingAllGames" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="sorter" type="Shell Script" />
       <mapping ext="service" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
