@@ -12,8 +12,8 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.gql</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.gql</mask>
   </component>
 </application>
