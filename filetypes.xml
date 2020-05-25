@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="SettingsTemplateFragment" type="GraphQL" />
       <mapping pattern="scheme" type="JSON" />
       <mapping pattern="bookmakerLimitGetLimitGroupsForBookmaker.gql" type="PLAIN_TEXT" />
       <mapping pattern="asdasd" type="PLAIN_TEXT" />
