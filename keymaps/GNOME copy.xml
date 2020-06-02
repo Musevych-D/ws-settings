@@ -26,13 +26,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
+  <action id="GotoTest" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
