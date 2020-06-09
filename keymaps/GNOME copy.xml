@@ -33,6 +33,9 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl back_space" />
