@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="scheme" type="JSON" />
+      <mapping pattern="maxBetRiskValidator" type="PLAIN_TEXT" />
       <mapping pattern="bookmakerLimitGetLimitGroupsForBookmaker.gql" type="PLAIN_TEXT" />
       <mapping pattern="asdasd" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
