@@ -18,7 +18,7 @@
     <mask>*.css</mask>
     <mask>*.gql</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
