@@ -2,17 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="scheme" type="JSON" />
-      <mapping pattern="maxBetRiskValidator" type="PLAIN_TEXT" />
-      <mapping pattern="bookmakerLimitGetLimitGroupsForBookmaker.gql" type="PLAIN_TEXT" />
-      <mapping pattern="asdasd" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="CategorizerHeadingAllGames" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="bookmakerLimitGetLimitGroupsForBookmaker" type="PLAIN_TEXT" />
+      <mapping pattern="maxBetRiskValidator" type="PLAIN_TEXT" />
+      <mapping pattern="asdasd" type="PLAIN_TEXT" />
       <mapping pattern=".eslintingnore" type="PLAIN_TEXT" />
+      <mapping pattern="bookmakerLimitGetLimitGroupsForBookmaker.gql" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="sorter" type="Shell Script" />
       <mapping pattern="useSportTypeSettingsModalBody" type="TypeScript" />
       <mapping ext="service" type="TypeScript" />
