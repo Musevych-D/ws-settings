@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="SettingsTemplateFragment" type="GraphQL" />
       <mapping ext="gql" type="GraphQL" />
-      <removed_mapping ext="ng" type="HTML" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern="scheme" type="JSON" />
       <mapping pattern="CategorizerHeadingAllGames" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
@@ -19,10 +19,10 @@
       <mapping pattern="sorter" type="Shell Script" />
       <mapping pattern="useSportTypeSettingsModalBody" type="TypeScript" />
       <mapping ext="service" type="TypeScript" />
-      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <removed_mapping ext="gql" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
