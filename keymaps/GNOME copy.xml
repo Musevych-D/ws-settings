@@ -17,9 +17,6 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="EditorCreateRectangularSelectionOnMouseDrag">
-    <mouse-shortcut keystroke="shift alt button1" />
-  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
@@ -64,8 +61,8 @@
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <mouse-shortcut keystroke="button4" />
-    <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="SmartSelect" />
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
