@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="SettingsTemplateFragment" type="GraphQL" />
-      <mapping ext="gql" type="GraphQL" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern="scheme" type="JSON" />
       <mapping pattern="CategorizerHeadingAllGames" type="PLAIN_TEXT" />
