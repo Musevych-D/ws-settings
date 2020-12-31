@@ -44,6 +44,9 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
