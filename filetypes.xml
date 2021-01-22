@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="ng" type="HTML" />
       <mapping pattern="scheme" type="JSON" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="CategorizerHeadingAllGames" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="bookmakerLimitGetLimitGroupsForBookmaker" type="PLAIN_TEXT" />
@@ -12,6 +11,7 @@
       <mapping pattern=".eslintingnore" type="PLAIN_TEXT" />
       <mapping pattern="bookmakerLimitGetLimitGroupsForBookmaker.gql" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
       <mapping pattern="sorter" type="Shell Script" />
       <mapping pattern="useSportTypeSettingsModalBody" type="TypeScript" />
       <mapping ext="service" type="TypeScript" />
@@ -24,6 +24,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="gql" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
