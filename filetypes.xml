@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Header" type="AUTO_DETECTED" />
       <mapping ext="ng" type="HTML" />
       <mapping pattern="scheme" type="JSON" />
       <mapping pattern="CategorizerHeadingAllGames" type="PLAIN_TEXT" />
