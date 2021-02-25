@@ -16,6 +16,7 @@
       <mapping pattern="sorter" type="Shell Script" />
       <mapping pattern="useSportTypeSettingsModalBody" type="TypeScript" />
       <mapping ext="service" type="TypeScript" />
+      <mapping pattern="OrderHistoryItem" type="TypeScript JSX" />
       <mapping pattern="ActionsToolbar" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
