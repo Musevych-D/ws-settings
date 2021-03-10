@@ -5,7 +5,8 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="idx" value="export { default as } from './$END$';" description="Creates an index with default exports" toReformat="false" toShortenFQNames="true">
+  <template name="idx" value="export { default as $END$ } from './$COMPLETE$';" description="Creates an index with default exports" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPLETE" expression="substringBefore(filePath(), concat(&quot;/&quot;, fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
