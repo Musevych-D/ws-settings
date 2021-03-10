@@ -5,8 +5,8 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="idx" value="export { default as $END$ } from './$COMPLETE$';" description="Creates an index with default exports" toReformat="false" toShortenFQNames="true">
-    <variable name="COMPLETE" expression="substringBefore(filePath(), concat(&quot;/&quot;, fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="true" />
+  <template name="idx" value="export { default as $FOLDER_NAME$ } from './$FOLDER_NAME$';" description="Creates an index with default exports" toReformat="false" toShortenFQNames="true">
+    <variable name="FOLDER_NAME" expression="regularExpression(substringBefore(filePath(), concat(&quot;/&quot;, fileNameWithoutExtension())), &quot;^.*\/&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
