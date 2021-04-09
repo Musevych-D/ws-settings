@@ -7,6 +7,7 @@
       <mapping pattern=".eslintingnore" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping pattern="sorter" type="Shell Script" />
       <mapping pattern="useSportTypeSettingsModalBody" type="TypeScript" />
       <mapping ext="service" type="TypeScript" />
