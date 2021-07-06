@@ -5,6 +5,7 @@
       <mapping pattern="scheme" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".eslintingnore" type="PLAIN_TEXT" />
+      <mapping pattern=".test" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
